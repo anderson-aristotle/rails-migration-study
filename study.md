@@ -59,9 +59,3 @@ In your own words, explain the role of application seed data.
 ```md
 <!-- your response here -->
 ```
-
-Should seed data be used for experimentation during development?
-
-```md
-<!-- your response here -->
-```
